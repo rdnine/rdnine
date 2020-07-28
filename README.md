@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning Vue.js & Laravel 
 - 📫 How to reach me: rafael@rdnine.dev 
-- ⚡ Fun fact: I'm named afte the Turtle Ninja "Raphael"
+- ⚡ Fun fact: I'm named after the Turtle Ninja "Raphael"
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnine&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
