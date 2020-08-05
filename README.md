@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Rafael</h1>
-<h4 align="center"> I'm a Full-Stack Web Developer</h4>
+<h4 align="center"> I'm a Web Developer</h4>
 
 ![I'm a Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGKUJyXcunk6w/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=ta7yi8INd8XCFMMpg9v4FPYt_gGyRhiVPkgbkIqLGD8)
 
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 <br/>
 
-- 🌱 I’m currently learning Vue.js & Laravel 
+- 🌱 I’m currently learning TypeScript & Laravel 
 - 📫 How to reach me: rafael@rdnine.dev 
 - ⚡ Fun fact: I'm named after the Turtle Ninja "Raphael"
 <br/>
