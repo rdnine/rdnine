@@ -20,24 +20,11 @@
 </p>
 <br/>
 
-##### Stack
-![Javascript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&logo=javascript&logoColor=35495e)
-![SASS](https://img.shields.io/badge/-Sass-f8f9fa?style=for-the-badge&logo=sass&color=bf4080)
-<br>
-![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white)
-![BO3](https://img.shields.io/badge/-BO3-37c8ab?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-1e2933?style=for-the-badge&logo=python&logoColor=ffe15f)
-<br>
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-<br/>
-
 - 🌱 I’m currently learning TypeScript & Laravel 
 - 📫 How to reach me: rafael@rdnine.dev 
 - ⚡ Fun fact: I'm named after the Turtle Ninja "Raphael"
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnine&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+![Gihub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdnine&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnine&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)  
 
