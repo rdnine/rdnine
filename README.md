@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Rafael</h1>
-<h4 align="center"> I'm a Web Developer</h4>
+<h4 align="center">I do magic on the Web! One line of code at a time.</h4>
 
 ![I'm a Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGKUJyXcunk6w/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=ta7yi8INd8XCFMMpg9v4FPYt_gGyRhiVPkgbkIqLGD8)
 
@@ -19,6 +19,22 @@
   </a> &nbsp;
 </p>
 <br/>
+
+## Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Code-SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Code-PYTHON-informational?style=for-the-badge&logo=python&logoColor=white&color=FEDA6A)
+<br />
+![](https://img.shields.io/badge/Framework-VUE-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Framework-LARAVEL-informational?style=for-the-badge&logo=laravel&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Framework-BO3-informational?style=for-the-badge&logo=php&logoColor=white&color=FEDA6A)
+<br />
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=FEDA6A)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=FEDA6A)
 
 - 🌱 I’m currently learning TypeScript & Laravel 
 - 📫 How to reach me: rafael@rdnine.dev 
