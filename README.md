@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Rafael</h1>
 <h4 align="center">I do magic on the Web! One line of code at a time.</h4>
 
-![I'm a Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGKUJyXcunk6w/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=ta7yi8INd8XCFMMpg9v4FPYt_gGyRhiVPkgbkIqLGD8)
+![I'm a Web Developer](https://imgur.com/QsKVOL0.jpg)
 
 <br/>
 <p align="center">
@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=FEDA6A)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=FEDA6A)
 
-- 🌱 I’m currently learning TypeScript & Laravel 
+- 🌱 I’m currently learning TypeScript & React 
 - 📫 How to reach me: rafael@rdnine.dev 
 - ⚡ Fun fact: I'm named after the Turtle Ninja "Raphael"
 <br/>
